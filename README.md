@@ -1,4 +1,4 @@
-# Fivem-laucher-cmd-js
+# Fivem-laucher-cmd
 A simple cmd launcher for FiveM in JS
 -------------------------------------
 In `main.js` line 8 & 9 choose the password and the username that you want! if you want more users that can to login you need to create more variables and to add them in line 16.
